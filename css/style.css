@@ -295,9 +295,9 @@ section#jumbotron div .btn-free-trial{
     font-size: 18px;
 }
 
-.btn-free-trial a{
+/* .btn-free-trial a{
     padding: 10px 60px;
-}
+} */
 
 .btn-free-trial a:hover, #btn-nav a:hover, .btn-free-trial a:hover, 
 .btn-contact a:hover, #btn-find-a-partner a:hover, #btn-under-client a:hover {
@@ -306,9 +306,9 @@ section#jumbotron div .btn-free-trial{
     transition: 0.3s;
 }
 
-.btn-contact a, #btn-under-client a{
+/* .btn-contact a, #btn-under-client a{
     padding: 8px 85px;
-}
+} */
 
 #btn-find-a-partner a{
     color: black;
